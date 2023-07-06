@@ -19,7 +19,7 @@ Example usage :
 ```
 
 **Sample output:**    
-prompt : /beautiful day'    
+prompt : 'beautiful day'    
 max_length : 100
 ```
 beautiful day
